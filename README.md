@@ -41,7 +41,7 @@ This repository includes examples of:
   - Switch
   - Synced Copies
   - Referencing Controls in Formulas
-## **Note: All these features were used in the dashboard creation. There are many more features that can be used as suitable.**
+### **Note:** All these features were used in the dashboard creation. There are many more features that can be used as suitable.
 ---
 
 ## **How I Learned Sigma Computing**
