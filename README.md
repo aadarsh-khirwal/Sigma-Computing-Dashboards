@@ -1,10 +1,9 @@
-# Sigma-Computing-Dashboards
-"Showcasing dashboards and visualizations built using Sigma Computing, including KPI charts, bar graphs, pie charts, maps, pivot tables, and advanced filtering features. Demonstrates my growing proficiency in data visualization and analysis with Sigma Computing."
-
-
 # Sigma Computing Dashboards
 
 This repository highlights my learning journey with **Sigma Computing**, a powerful platform for data visualization and analysis. I’ve explored its capabilities to build interactive dashboards, work with data effectively, and create impactful visualizations.
+
+## **Overview**  
+Sigma Computing enables users to create insightful dashboards and visualizations seamlessly. With its intuitive interface and robust features, it’s a great tool for exploring and presenting data.  
 
 ---
 
@@ -55,6 +54,8 @@ To get the most out of Sigma, I followed these **8 Fundamentals**:
 
 8. **Beyond the Basics**  
    Ventured into advanced features to unlock Sigma’s full potential.
+
+By following these steps, I was able to navigate Sigma effectively and build professional-grade dashboards.  
 
 For more details on these fundamentals, visit the [Sigma QuickStarts Guide](https://quickstarts.sigmacomputing.com).
 
