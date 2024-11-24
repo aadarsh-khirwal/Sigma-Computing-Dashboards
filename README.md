@@ -5,6 +5,23 @@ This repository highlights my learning journey with **Sigma Computing**, a power
 ## **Overview**  
 Sigma Computing enables users to create insightful dashboards and visualizations seamlessly. With its intuitive interface and robust features, it’s a great tool for exploring and presenting data.  
 
+Sigma Computing is used in these Industries. 
+
+-Marketing Analytics
+-Sales Teams
+-Retail & CPG
+-Supply Chain Analytics
+-Financial Services
+-Healthcare
+
+Used by Proffesionals like:
+
+-Analyst
+-Data Engineer
+-IT / Admin
+-Product Leader
+-Business Leader
+
 ---
 
 ## **Skills Demonstrated**
@@ -25,6 +42,7 @@ This repository includes examples of:
   - Synced Copies
   - Referencing Controls in Formulas
 
+Note: All these features were used in the dashboard creation. There are many more features that can be used as suitable.
 ---
 
 ## **How I Learned Sigma Computing**
