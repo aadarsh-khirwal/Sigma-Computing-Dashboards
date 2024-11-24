@@ -94,5 +94,5 @@ For more details on these fundamentals, visit the [Sigma QuickStarts Guide](http
 ---
 
 Feel free to connect if you’d like to discuss data visualization or Sigma Computing:
-- **LinkedIn**: [Aadarsh Khirwal](https://www.linkedin.com/in/aadarshkhirwal)
+- **LinkedIn**: [Aadarsh Khirwal](https://www.linkedin.com/in/aadarsh-khirwal/)
 - **Email**: aadarshkhirwal@gmail.com
